@@ -75,5 +75,5 @@ Check the image below for belt tensioning details.
 >https://vorondesign.com/
 >
 
->[!WARNING]
-> This project does not come with any warranty, if you choose to build/use one, you are doing this at your own risk!
+>[!caution]
+> This project does not come with any warranty, if you choose to build this, you are doing this at your own risk!
