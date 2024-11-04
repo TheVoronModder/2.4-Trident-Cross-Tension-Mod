@@ -11,7 +11,7 @@
 | m5x30mm Pin       |   x4   |  AB Motor Mounts |
 | m5x18mm Pin       |   x2   |  Front Belt Tensioners| 
 | m3 heatsert       |   x10   |  4x AB Motor Mounts 6x Front Belt Tensioners |
-| m5x40mm Pin       |   x24   | 
+| m3x6 neodymium magnet      |   x4   | Front Belt Tensioners | 
 
 
 
