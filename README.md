@@ -5,7 +5,7 @@
 
 It’s pretty straightforward. AWD systems have their belts routed in a criss-cross fashion. This makes Input Shaping a breeze, as it aligns the X and Y belt tensions (belt shaping) and resonance (input shaping) almost perfectly.
 
-Using Krakens from Omranello [website]https://github.com/D3vil-Design/Kraken-Stepper makes it sense to apply a criss-cross belt tension pattern.
+Using Krakens from Omranello https://github.com/D3vil-Design/Kraken-Stepper makes it sense to apply a criss-cross belt tension pattern.
 
 The front left tensioner is flipped to mirror the stock (OEM) right tensioner, and vice versa for the other.
 
