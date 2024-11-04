@@ -70,3 +70,6 @@ Check the image below for belt tensioning details.
 >huge shoutout to chirpy2605 for allowing me to be on the v8 beta team and allowing / encouraging others to mod his work.
 >
 >chirpy's rapid_burner is located here https://github.com/chirpy2605/voron/tree/main/V0/Rapid_Burner
+>
+>last but not least, huge shoutout to RCF (max zolin) for creating this amazing DIY 3d printer that is capable of SO much!
+>https://vorondesign.com/
