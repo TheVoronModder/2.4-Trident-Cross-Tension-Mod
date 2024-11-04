@@ -1,5 +1,8 @@
+![Pirmary Pic](https://github.com/user-attachments/assets/dc7ca6a8-09c6-4975-8559-19e3c5a4f084)
+
 >[!note]
-> This mod incorporates a lot of other user mods, for credit and naming see the bottom of the page.
+> This mod incorporates a lot of other user mods, for 
+credit and naming see the bottom of the page.
 
 ## What is this wild mod pack?
 
