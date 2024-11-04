@@ -1,5 +1,5 @@
 
-![60b7e8f3-c73f-4614-8d32-be10a8db5811](https://github.com/user-attachments/assets/9ddeeaf0-aaea-4312-a93d-bcf655bb390a)
+![KYLES_2 4_KRAKEN_reverse_tension_MOD_2WD_v1_2024-Nov-04_08-58-44PM-000_CustomizedView18581914413](https://github.com/user-attachments/assets/338d9fc6-fb99-447e-a1f2-8b0a6ac498a9)
 
 >[!important]
 > ## Tensioner Hardware List
