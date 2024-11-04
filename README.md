@@ -45,7 +45,16 @@ Check the image below for belt tensioning details.
 
 
 
+>[!important]
+> Tensioner Hardware List
 
+| Item              | Quantity | 
+| :---------------- | :------: |
+| m5x18mm Pin       |   x2   | 
+| m3 heatsert           |   x6   | 
+| m3x8mm shcs  |  x2   | 
+| m3x30mm shcs |  x4   |
+| neodymium magnet | x2 |
 
 
 
