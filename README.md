@@ -9,6 +9,9 @@ Utilizing Kraken stepper motors from Omranello (https://github.com/D3vil-Design/
 
 The front left tensioner is flipped to mirror the stock (OEM) right tensioner, and vice versa for the other.
 
+>[!note]
+>all the voron logos are mirrored for the reverse belt tension mod
+
 Check the image below for belt tensioning details.
 
 
