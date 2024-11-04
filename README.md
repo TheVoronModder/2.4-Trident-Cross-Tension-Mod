@@ -16,7 +16,6 @@ Check the image below for belt tensioning details.
 
 >[!tip]
 >simplified belting
-
 ![belt simplified](https://github.com/user-attachments/assets/baba219d-0545-463d-8179-0bed9623a5d6)
 
 >[!tip]
