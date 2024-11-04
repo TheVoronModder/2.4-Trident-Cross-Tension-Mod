@@ -1,4 +1,4 @@
->[!note}
+>[!note]
 >
 >The image below is the Trident Tensioner, I had this one done first.... The Hardware for both the Trident and the 2.4 are the same
 
