@@ -14,7 +14,13 @@ The front left tensioner is flipped to mirror the stock (OEM) right tensioner, a
 
 Check the image below for belt tensioning details.
 
+>[!tip]
+>simplified belting
 
+![belt simplified](https://github.com/user-attachments/assets/baba219d-0545-463d-8179-0bed9623a5d6)
+
+>[!tip]
+> both belts
 ![belt](https://github.com/user-attachments/assets/3878a689-6910-41f6-a36f-7c29e7d43deb)
 
 >[!TIP]
