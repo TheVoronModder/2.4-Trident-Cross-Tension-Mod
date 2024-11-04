@@ -17,6 +17,22 @@ Check the image below for belt tensioning details.
 >[!TIP]
 >after many months of testing I have formed a hypothesis: Standard voron belt tensioning has more pressure on the Y axis causing Belt Shaper and Input Shaper values to be much lower than X axis, you can see this in the above image of belt routing where the light blue lines are the tension path and the motor / tensioner they are connected to on the same belt path plane. 
 
+## now to the mods!
+
+
+>[!important]
+>Trident:
+
+![60b7e8f3-c73f-4614-8d32-be10a8db5811](https://github.com/user-attachments/assets/cb81e3ca-8e09-4396-a213-9e9da9c6ee82)
+
+
+
+
+
+
+
+
+
 >[!IMPORTANT]
 > Rear AB mounts modified from HartK's pin mod found below:
 > [website] https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/hartk1213/Voron2.4_Trident_Pins_Mod
