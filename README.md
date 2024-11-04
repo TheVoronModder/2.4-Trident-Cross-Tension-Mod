@@ -73,3 +73,7 @@ Check the image below for belt tensioning details.
 >
 >last but not least, huge shoutout to RCF (max zolin) for creating this amazing DIY 3d printer that is capable of SO much!
 >https://vorondesign.com/
+>
+
+>[!WARNING]
+> This project does not come with any warranty, if you choose to build/use one, you are doing this at your own risk!
