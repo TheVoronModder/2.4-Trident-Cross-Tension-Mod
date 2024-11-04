@@ -57,6 +57,7 @@ Check the image below for belt tensioning details.
 | neodymium magnet | x2 |
 
 
+![e7773187-a1e1-4b10-96c6-9526e200b6f0](https://github.com/user-attachments/assets/ce05d503-728b-48ec-8ce1-1e2cfbc70d24)
 
 
 >[!IMPORTANT]
