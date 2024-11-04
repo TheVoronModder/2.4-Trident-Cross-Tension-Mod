@@ -8,7 +8,7 @@ credit and naming see the bottom of the page.
 
 It’s pretty straightforward. AWD systems have their belts routed in a criss-cross fashion. This makes Input Shaping a breeze, as it aligns the X and Y belt tensions (belt shaping) and resonance (input shaping) almost perfectly.
 
-Utilizing Kraken stepper motors from Omranello (https://github.com/D3vil-Design/Kraken-Stepper), it makes a lot of sense to apply a criss-cross belt tension pattern to the standard rear motor drive system, which only utilizes 2x stepper motors.
+Utilizing Kraken stepper motors from Omranello (https://github.com/D3vil-Design/Kraken-Stepper), it makes a lot of sense to apply a criss-cross belt tension pattern to the standard rear motor drive system, which only utilizes 2x stepper motors. (of course you can always upgrade those 2004 mah's for 2804's however the real performance is hidden within the Kraken steppers)
 
 The front left tensioner is flipped to mirror the stock (OEM) right tensioner, and vice versa for the other.
 
