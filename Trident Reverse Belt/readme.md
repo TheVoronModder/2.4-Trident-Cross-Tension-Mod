@@ -6,7 +6,7 @@
 
  
 | Item              | Quantity |   Location | 
-| :---------------- | :------: |  :------: | 
+| :---------------- | :------: |  :------ | 
 | m5x40mm Pin       |   x4   |  XY Joint |
 | m5x30mm Pin       |   x4   |  AB Motor Mounts |
 | m5x18mm Pin       |   x2   |  Front Belt Tensioners| 
