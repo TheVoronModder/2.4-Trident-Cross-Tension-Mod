@@ -18,7 +18,20 @@ Check the image below for belt tensioning details.
 ![belt](https://github.com/user-attachments/assets/3878a689-6910-41f6-a36f-7c29e7d43deb)
 
 >[!TIP]
->after many months of testing I have formed a hypothesis: Standard voron belt tensioning has more pressure on the Y axis causing Belt Shaper and Input Shaper values to be much lower than X axis, you can see this in the above image of belt routing where the light blue lines are the tension path and the motor / tensioner they are connected to on the same belt path plane. 
+>after many months of testing I have formed a hypothesis: Standard voron belt tensioning has more pressure on the Y axis causing Belt Shaper and Input Shaper values to be much lower than X axis, you can see this in the above image of belt routing where the light blue lines are the tension path and the motor / tensioner they are connected to on the same belt path plane.
+
+## The proof:
+
+>[!important]
+>the below input shape images show how close each axis is, yes I have some thing loose in there.
+>
+>X axis is MVZ @ 12,500
+>Y axis is MZV @ 11,200
+>
+>with a 2 wheel drive VORON!
+
+![Input Shaper results](https://github.com/user-attachments/assets/e618fbe5-b9d2-4033-875d-de94af0874db)
+
 
 ## now to the mods!
 
