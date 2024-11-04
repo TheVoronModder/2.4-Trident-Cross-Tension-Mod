@@ -47,9 +47,12 @@ Check the image below for belt tensioning details.
 
 >[!important]
 >Trident:
+>![60b7e8f3-c73f-4614-8d32-be10a8db5811](https://github.com/user-attachments/assets/cb81e3ca-8e09-4396-a213-9e9da9c6ee82)
 
-![60b7e8f3-c73f-4614-8d32-be10a8db5811](https://github.com/user-attachments/assets/cb81e3ca-8e09-4396-a213-9e9da9c6ee82)
 
+>[!important]
+>2.4:
+>![KYLES_2 4_KRAKEN_reverse_tension_MOD_2WD_v1_2024-Nov-04_08-58-44PM-000_CustomizedView18581914413](https://github.com/user-attachments/assets/f15d44df-8175-4b29-952a-b389458c38a3)
 
 
 
