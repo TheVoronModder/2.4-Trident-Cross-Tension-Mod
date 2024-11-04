@@ -1,17 +1,15 @@
 >[!note]
 > This mod incorporates a lot of other user mods, for credit and naming see the bottom of the page.
 
-## What is this crazy mod pack?
+##What's this wild mod pack?
 
-Simple, I noticed with AWD systems the belt routing is in a Criss / Cross fashion, with that being said, Input Shaping has never been easier to achieve almost identical X Y belt relationships in terms of tensioning (belt shaping) and resonance (input shaping)
+It’s pretty straightforward. AWD systems have their belts routed in a criss-cross fashion. This makes Input Shaping a breeze, as it aligns the X and Y belt tensions (belt shaping) and resonance (input shaping) almost perfectly.
 
-with that in mind, using Krakens from Omranello [website] https://github.com/D3vil-Design/Kraken-Stepper
+Using Krakens from Omranello [website] https://github.com/D3vil-Design/Kraken-Stepper makes it sense to apply a criss-cross belt tension pattern.
 
-it makes logical sense to me to incorporate criss cross belt tension pattern.
+The front left tensioner is flipped to mirror the stock (OEM) right tensioner, and vice versa for the other.
 
-the front left tensioner is flipped to mirror the stock (oem) right mount and visa versa for the other.
-
-See the image below for belt tensioning
+Check the image below for belt tensioning details.
 
 
 ![belt](https://github.com/user-attachments/assets/3878a689-6910-41f6-a36f-7c29e7d43deb)
