@@ -26,6 +26,7 @@ Check the image below for belt tensioning details.
 >the below input shape images show how close each axis is, yes I have some thing loose in there.
 >
 >X axis is MVZ @ 12,500
+>
 >Y axis is MZV @ 11,200
 >
 >with a 2 wheel drive VORON!
