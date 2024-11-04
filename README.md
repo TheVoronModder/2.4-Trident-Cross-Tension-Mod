@@ -14,6 +14,8 @@ Check the image below for belt tensioning details.
 
 ![belt](https://github.com/user-attachments/assets/3878a689-6910-41f6-a36f-7c29e7d43deb)
 
+>[!note]
+>after many months of testing I have formed a hypothesis: Standard voron belt tensioning has more pressure on the Y axis causing Belt Shaper and Input Shaper values to be much lower than X axis
 
 >[!IMPORTANT]
 > Rear AB mounts modified from HartK's pin mod found below:
