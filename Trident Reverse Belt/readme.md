@@ -5,7 +5,7 @@
 > ## Tensioner Hardware List
 
  
-| Item              | Quantity |    | Location | 
+| Item              | Quantity |   Location | 
 | :---------------- | :------: | | :------: | 
 | m5x40mm Pin       |   x4   | | XY Joint |
 | m5x30mm Pin       |   x4   | | AB Motor Mounts |
