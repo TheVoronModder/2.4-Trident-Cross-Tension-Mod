@@ -1,4 +1,13 @@
 >[!important]
+>updates from chirpy's original faceplate
+>
+>1. faceplate fan mount depth has been increased for more material and strength
+>2. neopixels are now part of the faceplate like the Stealthburner toolhead also giving strength
+
+![Updated Faceplate](https://github.com/user-attachments/assets/3711f93e-4473-427a-ad34-6355d3fa35f1)
+
+
+>[!important]
 >
 >updates from Chirpy's v8 mount.
 >
