@@ -74,6 +74,8 @@ Check the image below for belt tensioning details.
 >last but not least, huge shoutout to RCF (max zolin) for creating this amazing DIY 3d printer that is capable of SO much!
 >https://vorondesign.com/
 >
+>aTinyShellScript - without his contributions to the AWD madness this would not have been thought of!
+>https://github.com/aTinyShellScript/v2.4_AWD
 
 >[!caution]
 > This project does not come with any warranty, if you choose to build this, you are doing this at your own risk!
